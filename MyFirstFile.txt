@@ -1,2 +1,8 @@
+#Author
+Vilte
+
+#Institution
+University of Bath
+
 This is a test file. I am adding a document here. 
 Lets see how it works out. 
